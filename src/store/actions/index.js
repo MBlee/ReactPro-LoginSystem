@@ -1,0 +1,1 @@
+export {toRegist} from './regist'
